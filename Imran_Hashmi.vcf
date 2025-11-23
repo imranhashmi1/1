@@ -1,11 +1,12 @@
 BEGIN:VCARD
-VERSION:3.0
+VERSION:4.0N
+FN:Imran Hashmi
 N:Hashmi;Imran;;Mr;
 ORG:IBM
 TITLE:Sales Leader - Americas
-TEL;CELL:14167889101
-TEL;CELL:19177202549
-EMAIL;INTERNET:imran@hashmi.ca
+TEL;TYPE=work,voice;VALUE=uri:tel:+1-416-788-9101
+TEL;TYPE=cell,voice;VALUE=uri:tel:+1-917-720-2549
+EMAIL;TYPE=work:imran@hashmi.ca
 X-SOCIALPROFILE;type=twitter:http://twitter.com/imranhashmi1
 X-SOCIALPROFILE;type=linkedin:http://www.linkedin.com/in/imranhashmi
 URL:https://hashmi.ca
@@ -854,3 +855,4 @@ PHOTO;TYPE=JPEG;ENCODING=BASE64:iVBORw0KGgoAAAANSUhEUgAAAJYAAACWCAYAAAA8A
  VV6+7OF3b6dGdFXcUH2scNc7tlN9x+KwoTsSAqrYWYQBSQHYNlIFZzRLj9cO5GkzvurNqC99R
  6FUl1kXFyagh6cR8V8iZiyZXi2KjTv2ssiq3Sf7D7C8PMfBQelCNSAAAAAElFTkSuQmCC
 END:VCARD
+
